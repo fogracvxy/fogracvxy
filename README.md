@@ -1,7 +1,6 @@
 # Full Stack Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fogracvxy/)
 
 ## About Me
 
@@ -40,7 +39,7 @@ I am a passionate Full Stack Web Developer with a Master's degree in Information
 
 I am passionate about professional portrait photography. With 6 years of expertise in beauty and fashion photography, I bring a creative vision enhanced by my professional skills in Photoshop and photo editing. I have worked with several modeling agencies, makeup artists, and influencers in Croatia, specializing in portrait photography and studio photography.
 
-Visit my photography portfolio: [https://mspudicidesign.com/](https://mspudicidesign.com/)
+Visit my photography portfolio: [https://mspudicdesign.com/](https://mspudicdesign.com/)
 
 ## Languages
 
