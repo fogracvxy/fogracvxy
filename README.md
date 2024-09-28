@@ -21,11 +21,27 @@ I am a passionate Full Stack Web Developer with a Master's degree in Information
 
 ## Projects
 
-### SGIS
+### 1. SGIS
 
 - This project is a GIS web application developed using ReactJS for the frontend and Node.js for the backend.
 - It leverages Docker for containerization and PostgreSQL for efficient data management.
 - The app allows users to visualize and analyze geospatial data.
+
+##
+
+### 2. Rust Tools
+
+This project is a Next.js application that provides tools and calculators for the game *Rust*, including an excavator yield calculator, recycle yield calculator, raid calculator, and server statistics powered by BattleMetrics.
+
+#### Key Features:
+- **Excavator Yield Calculator**: Calculate potential yield from excavating resources.
+- **Recycle Yield Calculator**: Estimate the yield from recycling items and components.
+- **Raid Calculator**: Plan and calculate the resources needed for raiding in *Rust*.
+- **Server Statistics**: View real-time server statistics from BattleMetrics.
+
+**Technologies Used**: Next.js, React, Tailwind CSS, BattleMetrics API
+
+[GitHub Repository](https://github.com/fogracvxy/rust-raid-calculator.git)
 
 ## Skills
 
