@@ -8,6 +8,7 @@ I am a passionate Full Stack Web Developer with a Master's degree in Information
 
 ## Experience
 
+- **Web Developer** at Ericsson Nikola Tesla (Jul 2025 - Present)
 - **Web Developer** at Tron usluge (Jul 2019 - Dec 2023)
  - Created and maintained web applications, specifically geographic information systems and databases.
  - Utilized ReactJS, Adobe Photoshop, and various other technologies.
